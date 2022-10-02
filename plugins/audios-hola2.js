@@ -12,7 +12,7 @@ ptt: true // true diatas ga work, sebab dipaksa tanpa convert ;v
 }
 handler.help = ['ʜᴏʟᴀ']
 handler.tags = ['audios']
-handler.customPrefix =/^(hola|Привет|Здарова|Здраствуйте|Салам|Hola|Ola|ola\?)$/i
+handler.customPrefix =/^(hola|Komar|Hola|Ola|ola\?)$/i
 handler.command = new RegExp
 
 handler.fail = null
