@@ -97,5 +97,5 @@ npm start
 [![DoNKoMaR](https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv?size=100)](https://github.com/DoNKoMaR)
 
 ## СОЗДАТЕЛЬ БОТА ЛЮЦИАНА: ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣
-[![DoNKoMaR](https://i.ibb.co/2h8HY03/ob-1.gif?size=300)](https://github.com/DoNKoMaR)
+[![DoNKoMaR](https://64.media.tumblr.com/4d7acaed975cacf3491d86732f6d024c/5ffd9bbeb6118ee7-2a/s540x810/3d1aa77fa619fe9ee61b42aeaeb8c7905514aa9e.gifv?size=300)](https://github.com/DoNKoMaR)
 
