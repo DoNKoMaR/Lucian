@@ -2,9 +2,9 @@
 let handler = async m => m.reply(`
 ┏━━━━━ ★彡[ᴄʀᴇᴅɪᴛᴏꜱ]彡★ ━━━━━ ◈
 ┃࿊⃟♦- Creado por :*Odin™✓*
-┃ Contacto: wa.me/79773452127
+┃ Contacto: wa.me/5214774739565
 ┃ Repositorio del bot: 
-┃ https://github.com/DoNKoMaR/Lucian 
+┃ https://github.com/OdinTm/INFINIXBOT-MD 
 ┃────────➢
 ┃࿊⃟♦- Base: *Nurutomo y Bochilgaming*
 ┃github:https://github.com/BochilGaming/games-wabot

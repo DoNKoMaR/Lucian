@@ -128,7 +128,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
     const pp = await conn.profilePictureUrl(pp2).catch(_ => './menu.jpg')
-    conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://wa.me/79773452127', '𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗢', null, null, [
+    conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://wa.me/5214774739565', '𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗢', null, null, [
       ['𝗖𝗥𝗘𝗗𝗜𝗧𝗢𝗦', '/creditos'],
       ['𝗣𝗜𝗡𝗚', '/ping'],
       ['𝗟𝗜𝗦𝗧𝗔 𝗗𝗘𝗟 𝗠𝗘𝗡𝗨', '/listmenu']
@@ -140,7 +140,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 }
 handler.help = ['ᴍᴇɴᴜ']
 handler.tags = ['main']
-handler.command = /^(меню|comandos|scrip\?)$/i
+handler.command = /^(menu|comandos|scrip\?)$/i
 
 handler.exp = 3
 

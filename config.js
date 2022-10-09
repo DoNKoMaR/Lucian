@@ -2,12 +2,12 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 global.owner = [
-  ['79773452127'], //изменить здесь, чтобы быть владельцем
-  ['79010070455'],
-  ['79773452127', '☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣', true]
+  ['5214774739565'], //cambia aqui para ser el owner
+  ['18608548497'],
+  ['5214774739565', '©Odin™✓', true]
 ] // Pon tu número aquí
-global.mods = ['79773452127'] // Вам нужна помощь?
-global.prems = ['79773452127',] //здесь введите номер для добавления премиум пользователей, если он не сохранен с помощью команды #датьпремимум
+global.mods = ['5214774739565'] // ¿Quieres ayuda?
+global.prems = ['5214774739565',] //aqui pon el numero para agregar usuarios premium si no se guarda con el comando #addprem
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -26,7 +26,7 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
-global.multiplier = 69 // Чем выше, тем сложнее повысить уровень
+global.multiplier = 69 // Cuanto más alto, más difícil subir de nivel
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()

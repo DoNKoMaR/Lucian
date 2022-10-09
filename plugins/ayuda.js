@@ -42,7 +42,7 @@ Se admite chat privado,se puede unir grupos (1 por usuario, y NOTA: Esto puede c
     
 🔹*Descarga del bot*:
  
-Bot con descarga totalmente gratuita, link del respositorio en Github donde estan todas las instrucciones como instalar en android y windows: https://github.com/DoNKoMaR/Lucian
+Bot con descarga totalmente gratuita, link del respositorio en Github donde estan todas las instrucciones como instalar en android y windows: https://github.com/OdinTm/INFINIXBOT-MD
 
 🔹*SUB-BOTS*
 
