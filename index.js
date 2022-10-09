@@ -1,4 +1,4 @@
-console.log('Starting...')
+console.log('Запуск Бота...')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('INFINIX\nBOT 2022', {
+say('LUCIAN\nBOT', {
   font: 'block',
   align: 'center',
   gradient: ['blue', 'green']
 })
-say(` By: #Odin`, {
+say(` By: DoN KoMaR`, {
   font: 'tiny',
   align: 'center',
   gradient: ['blue', 'green']

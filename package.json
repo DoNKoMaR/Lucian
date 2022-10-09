@@ -1,5 +1,5 @@
 {
-    "name": "inifnix-bot",
+    "name": "Lucian-bot",
     "version": "1.0",
     "description": "bot para whatsapp",
     "main": "index.js",
@@ -28,14 +28,14 @@
     ],
     "homepage": "www.google.com",
     "author": {
-        "name": "OdinTm"
+        "name": "DoNKoMaR"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/"
+        "url": "git+https://github.com/DoNKoMaR/Lucian"
     },
     "bugs": {
-        "url": "https://github.com/"
+        "url": "https://github.com/DoNKoMaR/Lucian"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
